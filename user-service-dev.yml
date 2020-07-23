@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: user-service
+    
+  jpa:
+    show-sql: true  
+
+redis:
+  configuration:
+    secure: true
