@@ -1,21 +1,5 @@
 spring:
-  profiles:
-    active: dev
   application:
     name: user-service-test
-    
   jpa:
-    show-sql: false  
-
-redis:
-  configuration:
-    secure: true
-    
-test: development
- 
-logging:
-  level:
-    com:
-      cts:
-        user: DEBUG
-
+    show-sql: false
