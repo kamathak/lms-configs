@@ -11,7 +11,7 @@ redis:
   configuration:
     secure: true
     
- test: development
+test: development
  
  logging:
   level:
