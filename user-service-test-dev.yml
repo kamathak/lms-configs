@@ -1,5 +1,14 @@
 spring:
   application:
-    name: user-service-test
+    name: user-service
   jpa:
     show-sql: false
+redis:
+  configuration:
+    secure: true
+envr: development
+logging:
+  level:
+    root: ERROR
+    com.cts.user: DEBUG
+
