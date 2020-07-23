@@ -13,7 +13,7 @@ redis:
     
 test: development
  
- logging:
+logging:
   level:
     com:
       cts:
