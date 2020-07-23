@@ -10,3 +10,10 @@ redis:
     secure: true
     
  test: development
+ 
+ logging:
+  level:
+    com:
+      cts:
+        user: DEBUG
+
