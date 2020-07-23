@@ -8,3 +8,5 @@ spring:
 redis:
   configuration:
     secure: true
+    
+ test: development
