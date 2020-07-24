@@ -1,3 +1,4 @@
+message: 'Hello from dev env'
 spring:
   application:
     name: user-service
