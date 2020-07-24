@@ -2,7 +2,7 @@ message: 'Hello from dev loan service'
 
 spring:
   application:
-    name: loan-service
+    name: loani-service
   jpa:
     show-sql: false
 
