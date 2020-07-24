@@ -1,7 +1,12 @@
+message: 'Hello from dev loan service'
+
 spring:
   application:
     name: loan-service
-    
   jpa:
-    show-sql: true
-   
+    show-sql: false
+
+logging:
+  level:
+    root: ERROR
+    com.cts.user: DEBUG
