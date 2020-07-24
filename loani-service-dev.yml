@@ -9,4 +9,4 @@ spring:
 logging:
   level:
     root: ERROR
-    com.cts.user: DEBUG
+    com.cts.loan: DEBUG
