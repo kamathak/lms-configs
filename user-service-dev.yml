@@ -1,13 +1,11 @@
 message: 'Hello from dev env'
+
 spring:
   application:
     name: user-service
   jpa:
     show-sql: false
-redis:
-  configuration:
-    secure: true
-envr: development
+
 logging:
   level:
     root: ERROR
