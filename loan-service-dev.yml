@@ -2,7 +2,7 @@ message: 'Hello from dev env'
 
 spring:
   application:
-    name: loani-service
+    name: loan-service
   jpa:
     show-sql: false
 
